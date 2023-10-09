@@ -1,7 +1,7 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_paypal_pay/paypal_flutter.dart';
+import 'package:flutter_paypal_pay/flutter_paypal_pay.dart';
 
 void main() {
   runApp(const MyApp());
