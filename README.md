@@ -10,7 +10,7 @@ For general information about developing packages, see the Dart guide for
 and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
-# Flutter Paypal ResApi V2
+# Flutter Paypal Pay
 
 ## Features
 ## Upgrade to PayPal v2 API: A Modern Solution
