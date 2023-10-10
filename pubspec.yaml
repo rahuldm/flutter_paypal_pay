@@ -1,7 +1,7 @@
 name: flutter_paypal_pay
 description: flutter paypal pay package .
 version: 0.0.1
-homepage: https://github.com/rahuldm/paypal_flutter_api_v2.git
+homepage: https://github.com/rahuldm/flutter_paypal_pay.git
 
 environment:
   sdk: '>=3.1.3 <4.0.0'
