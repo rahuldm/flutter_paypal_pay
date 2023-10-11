@@ -1,5 +1,5 @@
 name: flutter_paypal_pay
-description: flutter paypal pay package .
+description: The Flutter PayPal Pay package has undergone a significant upgrade, transitioning to the modern PayPal v2 API for enhanced security and reliability. It simplifies order creation and capture, making transactions more efficient. Staying current with the latest API ensures compliance with PayPal's evolving standards and future-proofs applications, guaranteeing ongoing support and updates. This upgrade offers a more secure and efficient payment processing experience.
 version: 0.0.1
 homepage: https://github.com/rahuldm/flutter_paypal_pay.git
 
