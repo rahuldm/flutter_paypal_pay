@@ -36,7 +36,7 @@ If you're selling digital products or services within your app, you can use this
 
 ## Installation
 ```sh
-dart pub 
+flutter pub add flutter_paypal_pay
 ```
 ## How to use the library
 ```dart
