@@ -249,9 +249,12 @@ class PaypalPayState extends State<PaypalPay> {
       },
       child: Scaffold(
           appBar: AppBar(
-            backgroundColor: const Color(0xFF272727),
+            backgroundColor: Colors.blueGrey,
             leading: GestureDetector(
-              child: const Icon(Icons.arrow_back_ios),
+              child: const Icon(
+                Icons.arrow_back_ios_new,
+                color: Colors.white,
+              ),
               onTap: () => Navigator.pop(context),
             ),
             title: Row(
@@ -302,7 +305,7 @@ class PaypalPayState extends State<PaypalPay> {
                     children: [
                       Expanded(
                         child: Center(
-                          child: SpinKitFadingCube(
+                          child: SpinKitRotatingCircle(
                             color: Color(0xFFEB920D),
                             size: 30.0,
                           ),
