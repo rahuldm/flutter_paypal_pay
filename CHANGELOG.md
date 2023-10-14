@@ -6,5 +6,7 @@
 ## 0.0.3
 * init
 
+## 0.0.4
+
 ## 0.0.5
 * lower http support
